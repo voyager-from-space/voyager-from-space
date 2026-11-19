@@ -2,6 +2,8 @@
 
 I'm voyager, a nerdy shipper of free, in-browser tools. Nothing to install and nothing uploaded. The code is public and every number I quote comes from a run I can name.
 
+[@voyagerships on X](https://x.com/voyagerships) · [Portfolio with the measured numbers](https://voyager-from-space.github.io)
+
 ## Shipped
 
 **[texdiet](https://voyager-from-space.github.io/texdiet/)** finds what makes a LaTeX project slow to compile and hands back a smaller zip. [Code](https://github.com/voyager-from-space/texdiet)
@@ -13,7 +15,3 @@ I'm voyager, a nerdy shipper of free, in-browser tools. Nothing to install and n
 ## Building now
 
 **blindsanitize** checks a paper for whatever gives away its authors before a double-blind submission. Nothing to try yet.
-
-## Elsewhere
-
-[@voyagerships on X](https://x.com/voyagerships) and [the portfolio](https://voyager-from-space.github.io), which has the measured numbers for each tool.
